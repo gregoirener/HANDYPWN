@@ -32,4 +32,4 @@ Usage
 HandyPwn is built for security professionals and ethical hackers who want to test the security of their own networks. Unauthorized use is strictly prohibited. Always obtain proper permission before testing any network.
 License
 
-This project is licensed under the MIT License – see the LICENSE file for details.
+This project is licensed under the GNU License – see the LICENSE file for details.
